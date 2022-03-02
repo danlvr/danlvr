@@ -9,8 +9,6 @@
 
 - ⚡ AI and VR **Enthusiast**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/danlvr/](https://www.linkedin.com/in/danlvr/)
-
 - 📫 How to reach me **ogdanilo.oliveira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

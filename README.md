@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🤖, I'm Danilo</h1>
 <h3 align="center">A Game Developer/Programmer</h3>
 
-- 🌱 I’m currently learning **Mobile Development/Programming**
+- 🎮 Experience in **Unity, Unreal, Godot**
 
 - 👨‍💻 Some of my projects are available at [https://danlvr.itch.io/](https://danlvr.itch.io/)
 
-- 🎮 Experience in **Unity, Unreal, Godot**
-
 - ⚡ AI and VR **Enthusiast**
+
+- 🌱 I’m currently learning **Mobile Development**
 
 - 📫 How to reach me **ogdanilo.oliveira@gmail.com**
 

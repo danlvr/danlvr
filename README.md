@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤖, I'm Danilo</h1>
+<h1 align="center">Hi 🤖, I'm Dan</h1>
 <h3 align="center">A Game Developer/Programmer</h3>
 
 - 🎮 Experience in **Unity, Unreal, Godot**

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🤖, I'm Dan</h1>
-<h3 align="center">A Game Developer/Programmer</h3>
+<h3 align="center">A iOS Developer/Game Programmer</h3>
 
-- 🎮 Experience in **Unity, Unreal, Godot**
+- 🎮 Experience in **SwiftUI, Unity, Unreal, Godot**
 
 - 👨‍💻 Some of my projects are available at [https://danlvr.itch.io/](https://danlvr.itch.io/)
 
 - ⚡ AI and VR **Enthusiast**
 
-- 🌱 I’m currently learning **Mobile and Software Development**
+- 🌱 I’m currently at **Mobile and Game Development**
 
 - 📫 How to reach me **ogdanilo.oliveira@gmail.com**
 
